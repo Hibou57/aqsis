@@ -8,3 +8,5 @@ fork, for the personal version. But this is not possible as I’m not the member
 of any organization. So instead of pushing the change to the upstream and a
 second fork, the change will be manually duplicated in the `personal-version`
 branch and in each branch to be proposed for merging in upstream.
+
+As an unwanted side effect, all references to issues will be duplicated.
