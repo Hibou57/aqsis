@@ -1,0 +1,10 @@
+Like usually, there will be as many branche as they are merge proposals to the
+upstream and they will stay opened as long are they are not reviewed or accepted
+or rejected.
+
+There is a `personal-version` branch, where changes will be applied wether or
+not they are applied in the upstream. Initially, the idea was to also fork this
+fork, for the personal version. But this is not possible as I’m not the member
+of any organization. So instead of pushing the change to the upstream and a
+second fork, the change will be manually duplicated in the `personal-version`
+branch and in each branch to be proposed for merging in upstream.
